@@ -9,6 +9,8 @@ Spree.config do |config|
   # Example:
   # Uncomment to override the default site name.
   config.site_name = "Bend Trailers"
+
+  # added to display logo stored in app/assets/images/...
   config.logo="store/bend_trailers_logo.gif"
 end
 
